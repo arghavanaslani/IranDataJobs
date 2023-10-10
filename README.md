@@ -1,4 +1,5 @@
-# JobAdDB
+# Iran Data Science Job Postings Dataset
+
 As I delved deeper into the world of data science, I set my sights on finding a job in the field. However, I quickly noticed that job titles like "data analyst," "data scientist," and "data engineer" were often used interchangeably, making it challenging to understand what each role entailed.
 
 In this rapidly evolving field, such ambiguity is not surprising, but it posed a challenge for someone like me trying to find their footing. I needed a clearer picture of which job descriptions matched these job titles, helping me navigate the data science job market more effectively.
